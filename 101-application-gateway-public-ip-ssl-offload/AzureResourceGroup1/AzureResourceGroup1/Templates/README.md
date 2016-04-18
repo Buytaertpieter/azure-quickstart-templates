@@ -1,6 +1,6 @@
 # Application Gateway With Public IP and HTTPS Listener
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbuytaertpieter%2Fazure-quickstart-templates%2Fmaster%2F101-application-gateway-public-ip-ssl-offload%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbuytaertpieter%2Fazure-quickstart-templates%2Fmaster%2F101-application-gateway-public-ip-ssl-offload%2FAzureResourceGroup1%2FAzureResourceGroup1%2FTemplates%2Fazuredeploy.json)
 
 
 
@@ -12,4 +12,4 @@ This template creates an Application Gateway, Public IP address for the Applicat
 
 Tip: To get the certData from pfx file in PowerShell you can use this: [System.Convert]::ToBase64String([System.IO.File]::ReadAllBytes("path to pfx file"))
 
-AzureResourceGroup1%2FTemplates%2F
+AzureResourceGroup1%2FAzureResourceGroup1%2FTemplates%2F
