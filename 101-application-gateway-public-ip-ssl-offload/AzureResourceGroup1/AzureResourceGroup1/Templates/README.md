@@ -8,8 +8,3 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-This template creates an Application Gateway, Public IP address for the Application Gateway, and the Virtual Network in which Application Gateway is deployed. Also configures Application Gateway for Ssl Offload and Load balancing with Two backend servers. 
-
-Tip: To get the certData from pfx file in PowerShell you can use this: [System.Convert]::ToBase64String([System.IO.File]::ReadAllBytes("path to pfx file"))
-
-AzureResourceGroup1%2FAzureResourceGroup1%2FTemplates%2F
